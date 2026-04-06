@@ -1,5 +1,5 @@
 @echo off
-set REPO_URL=https://github.com/syncfivem/cdn-sync.git
+set REPO_URL=https://github.com/syncfivem/cdn-wtc-inventory.git
 set BRANCH_NAME=main
 
 for /f "tokens=1-4 delims=/ " %%a in ("%date% %time%") do (
